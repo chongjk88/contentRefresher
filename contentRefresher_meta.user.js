@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Content Refresher
-// @version      0.1
+// @version      0.2
 // @author       jk
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
 // @include      http://websites.cobalt.com/wsm/editSite*
