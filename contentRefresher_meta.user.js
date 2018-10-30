@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Content Refresher
-// @version      0.3
+// @version      0.4
 // @author       jk
 // @include      http://websites.cobalt.com/wsm/editSite.do?*
 // @include      https://websites.cobalt.com/wsm/editSite.do?*
