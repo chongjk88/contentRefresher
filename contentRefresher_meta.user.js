@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Content Refresher
-// @version      0.6
+// @version      0.7
 // @author       jk
 // @include      */wsm/editSite.do*
 // @include      */wsm/seo_performance.mvc*
